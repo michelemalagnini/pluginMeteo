@@ -1,0 +1,36 @@
+div.meteo-widget  > div{
+    -moz-border-radius-topright: 55px;
+    -webkit-border-top-right-radius: 55px;
+    border-top-right-radius: 55px;
+    -moz-border-radius-bottomleft: 55px;
+    -webkit-border-bottom-left-radius: 55px;
+    border-bottom-left-radius: 55px;
+}
+
+div.meteo-widget  > div{
+    height: 262px;
+    max-width: 230px;
+    background-color: #59aad4;
+    color: #ffffff;
+    font-size: 14px;
+    -moz-border-radius-topright: 55px;
+    -webkit-border-top-right-radius: 55px;
+    border-top-right-radius: 55px;
+    -moz-border-radius-bottomleft: 55px;
+    -webkit-border-bottom-left-radius: 55px;
+    border-bottom-left-radius: 55px;
+    padding: 15px 25px;
+}
+
+div.meteo-widget div.temp{
+    font-size: 29px;
+}
+
+div.meteo-widget div.temp img{
+    vertical-align: middle;
+}
+
+div.meteo-widget div.location{
+    font-size: 20px;
+    font-weight: light;
+}
