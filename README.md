@@ -1,4 +1,4 @@
 # pluginMeteo
-wordpress plugin meteo
+wordpress plugin meteo example
 
 
