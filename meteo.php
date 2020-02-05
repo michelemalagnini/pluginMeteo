@@ -2,7 +2,7 @@
 /*
 Plugin Name: meteo plugin
 Plugin URI: ###
-Description: plug prova per test nexilia mosai
+Description: meteo plug in api openweathermaps
 Version: 1.0
 Author: Michele Malagnini
 Author URI: http://www.michelemalagnini.com
