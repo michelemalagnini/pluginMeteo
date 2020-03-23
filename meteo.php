@@ -43,7 +43,7 @@ class Meteo_Widget extends WP_Widget {
         }
         
         //faccio partire la funzione curl inserendo dentro l api openweather location e la mia apikey generata precedentemente in tutto dentro la variabile urlContents
-		$urlContents = curl("http://api.openweathermap.org/data/2.5/weather?q=".$location."&type=accurate&appid=50640da7a28979837c0d304a717f1542");
+		$urlContents = curl("http://api.openweathermap.org/data/2.5/weather?q=".$location."&type=accurate&appid=APP_TOKEN downoad at open.weather.map");
 		
 		// debug
 		/*echo $urlContents;*/
